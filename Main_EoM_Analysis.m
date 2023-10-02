@@ -1,8 +1,8 @@
 
-% A script to analyze a time-series and output calculate the Ease-of-Movement (EoM) technical indicator
-
-% Authour: Sameen Rajabi
+% Author: Sameen Rajabi
 % Last Update: November, 2021
+
+% A script to analyze a time-series and output calculate the Ease-of-Movement (EoM) technical indicator
 
 
 %% User Setting
