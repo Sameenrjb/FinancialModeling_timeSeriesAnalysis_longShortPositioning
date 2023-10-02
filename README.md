@@ -1,7 +1,5 @@
 # FinancialModeling_timeSeriesAnalysis_longShortPositioning
-Time series analysis of an underlying security using Matlab.
-
-The script assumes that for a given day an udnerlying security has the following values
+Time series analysis of an underlying security using Matlab. The script assumes that for a given day an udnerlying security has the following values
 
 Opening Price Oi, High Price Hi
 Low Price Li
@@ -9,7 +7,6 @@ Closing Price 𝐶i
 Volume Vi
 
 The ease of movement (EoM) analysis is calculated as
-
 
 <img width="276" alt="image" src="https://github.com/Sameenrjb/FinancialModeling_timeSeriesAnalysis_longShortPositioning/assets/144177153/d44a77ad-6f7c-45ab-a2b6-49a78d23fc48">
 
